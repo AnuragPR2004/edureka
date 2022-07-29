@@ -1,0 +1,10 @@
+Administrator@DESKTOP-O9SCFS2 MINGW64 ~/Documents/first project
+$ git clone https://github.com/AnuragPR2004/edureka.git
+Cloning into 'edureka'...
+warning: You appear to have cloned an empty repository.
+
+Administrator@DESKTOP-O9SCFS2 MINGW64 ~/Documents/first project
+$ cd edureka
+
+Administrator@DESKTOP-O9SCFS2 MINGW64 ~/Documents/first project/edureka (main)
+$
